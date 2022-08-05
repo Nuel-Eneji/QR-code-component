@@ -1,0 +1,48 @@
+html {
+    background-color: hsl(212, 45%, 89%);
+}
+.cover-box {
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 250px;
+    height: 400px;
+    border-radius: 15px;
+    background-color: hsl(0, 0%, 100%);
+}
+.image-div {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 10px;
+}
+img.qr-code {
+    width: 230px;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+
+}
+h3 {
+    display: flex;
+    justify-content: center;
+    font-family: outfit;
+    font-weight: 70px;
+    position: relative;
+    top: 10px;
+    color: hsl(218, 44%, 22%);
+}
+p{
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+    font-family: outfit;
+    font-weight: 40px;
+    font-size: 13px;
+
+}
+.paragraph {
+    margin: 15px;
+}
